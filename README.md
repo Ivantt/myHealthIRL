@@ -1,5 +1,5 @@
 ##myHealthIRL
-my Health IRL  - Decentralized Health Care
+my Health IRL  - Decentralised Healthcare
 http://www.myhealthirl.com/
 
 ##Wallet
