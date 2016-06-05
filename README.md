@@ -3,7 +3,7 @@ my Health IRL  - Decentralised Healthcare
 http://www.myhealthirl.com/
 
 ##Wallet
-Get consultatations from healthcare consultatnts and Doctors.
+Get consultatations from healthcare consultants and Doctors.
 
 #All Your Records in One Place
 And Locked with Ethereum Encryption, and manage who sees your records.
@@ -19,7 +19,7 @@ Currently the health care system has several problems.
 -Individuals don’t have control over their own health information
 -It is hard for people to educate themselves about their own health
 -Understanding a diagnosis and seeking further opinions is usually difficult
--Not all dr’s  have compatible systems to view different types of data/files
+-Not all Dr's  have compatible systems to view different types of data/files
 -How do you know what your doctor has trained in and how do they compare to other doctors or other therapies.
 -Do you feel alone in the search for answers
 -How do you find support groups and community help
