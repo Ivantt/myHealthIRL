@@ -31,9 +31,6 @@ Currently the health care system has several problems.
 -How do you pay for services internationally
 -How do you know who to trust.
 
-
-
-
 ## Relevant Technologies
 Distributed Autonomous Organisation
 Distributed App (dApp)
